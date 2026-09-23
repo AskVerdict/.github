@@ -53,6 +53,11 @@ console.log(verdict.verdict.recommendation);
 - **Website**: [askverdict.ai](https://askverdict.ai)
 - **Source**: [github.com/askverdict/askverdict](https://github.com/askverdict/askverdict)
 - **npm**: [@askverdict](https://www.npmjs.com/org/askverdict)
+- **Discord**: [![Discord](https://img.shields.io/discord/829168897080557579?style=flat-square&logo=discord&logoColor=white&label=discord&color=5865F2)](https://discord.gg/Ar5pcaZB99)
+
+Join the GLINR | GLINCKER Discord to talk with the team building AskVerdict.
+
+![GLINR Discord banner](https://discord.com/api/guilds/829168897080557579/widget.png?style=banner2)
 
 ---
 
